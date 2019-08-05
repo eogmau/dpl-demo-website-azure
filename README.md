@@ -7,7 +7,7 @@ products:
   - Azure Web Apps
 ---
 
-# HTML Hello World
+# Dublin Pharmaceutical Limited Demo HTML Hello World website
 
 This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
 
